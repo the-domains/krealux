@@ -1,7 +1,7 @@
 name: Krealux
 favicon: null
-layout_spectrum: 0.7547558629885316
-typography_spectrum: 0.6102926845196635
+layout_spectrum: 1
+typography_spectrum: 0.74552
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.04925217223353684
+  brandStrength: 0.5
   lightness: 0.9347515867557377
   saturation: 0.4841122778598219
   rhythmicContrast: 0.22616873611696064
